@@ -1,0 +1,5 @@
+19:30 "D:\\trash\\py\\script\\dist\\main.exe"
+19:31 "D:\\trash\\py\\calc\\dist\\calculator.exe" 3 5
+19:32 "notepad.exe"
+19:33 "calc.exe"
+19:34 "undefined_prog.exe"

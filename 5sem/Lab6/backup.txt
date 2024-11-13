@@ -1,0 +1,5 @@
+aboba
+invalid=data
+Software\Test\SubTest\Path4=C:\aboba\notfound
+Software\Test\SubTest2\Path6=E:\
+Software\Test\Path1=D:\notfound\

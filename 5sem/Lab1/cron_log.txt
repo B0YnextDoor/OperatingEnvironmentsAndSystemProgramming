@@ -1,0 +1,15 @@
+[19:30:21] Configuration loaded successfully
+[19:30:21] Scheduler started
+[19:30:21] Starting task: D:\trash\py\script\dist\main.exe with parameters: D:\trash\py\script\dist\main.exe
+[19:30:22] Task completed successfully: D:\trash\py\script\dist\main.exe
+[19:31:00] Starting task: D:\trash\py\calc\dist\calculator.exe with parameters: D:\trash\py\calc\dist\calculator.exe "3" "5"
+[19:31:01] Task completed successfully: D:\trash\py\calc\dist\calculator.exe
+[19:32:00] Starting task: notepad.exe with parameters: notepad.exe
+[19:32:24] Task completed successfully: notepad.exe
+[19:33:00] Starting task: calc.exe with parameters: calc.exe
+[19:33:01] Task completed successfully: calc.exe
+[19:34:00] Starting task: undefined_prog.exe with parameters: undefined_prog.exe
+[19:34:00] Failed to start process: undefined_prog.exe with error 2
+[19:34:01] All tasks completed
+---------------
+
